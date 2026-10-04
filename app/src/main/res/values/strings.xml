@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="title_activity_task_list_screen">TaskListScreen</string>
+    <string name="title_activity_task_detail">TaskDetailActivity</string>
+</resources>
